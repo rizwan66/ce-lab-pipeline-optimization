@@ -21,7 +21,7 @@
 ├── .github/workflows/
 │   ├── baseline-slow.yml.disabled
 │   ├── optimized.yml
-│   └── matrix-test.yml
+│   └── matrix.yml
 ├── terraform/
 │   ├── main.tf
 │   ├── variables.tf
